@@ -1,7 +1,7 @@
 baseURL = "http://z1wu.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "z1wu's blog"
+title = "Z1Wu's blog"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
